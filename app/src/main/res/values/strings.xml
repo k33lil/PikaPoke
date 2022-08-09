@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PikaPoke</string>
+    <string name="search">Search all here</string>
+    <string name="retry">Retry</string>
+    <string name="tap_to_retry">There was an error\ntap to try again</string>
+    <string name="stats">Base Stats</string>
+    <string name="scroll_up_indc">Scroll up</string>
+</resources>
